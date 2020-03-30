@@ -15,3 +15,5 @@ console.log("Another line!");
 // git log lets us see everything that we have committed and when. when we press enter, we actually move down. we're in a different terminal now. to exit, press q.
 
 // git checkout. we copy the unique id that we see when we are in the git log, and we type git checkout, then that id.
+// this takes us back in time to view code that we once had but have since changed.
+// type git checkout master to return.
