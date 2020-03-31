@@ -52,3 +52,5 @@ console.log("Another line!");
 // this will let both branches know about the files and stuff on the other branch.
 
 // remember to delete featureOne branch and start over again.
+
+// to delete a branch, git branch -d <branchname>
