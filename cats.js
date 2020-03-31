@@ -46,5 +46,9 @@ console.log("Another line!");
 
 // switch to a new branch using git checkout <branchname>
 
+// remember, to start making variations of the timeline, you have to commit the file on the different branches
+
 // to merge the two branches, we need to type git merge <branchname>
 // this will let both branches know about the files and stuff on the other branch.
+
+// remember to delete featureOne branch and start over again.
